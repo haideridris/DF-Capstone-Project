@@ -5,6 +5,6 @@ Objective: Create a property price prediction function for properties within the
 Tasks:
 1) Webscrape property listings information from rightmove.co.uk for each location
 2) Clean data and perform exploratory data analysis
-3) Model the data using Linear Regression
+3) Model the data in order to perform price prediction (using regression techniques)
 4) Build a function using knowledge gained from modelling
 
